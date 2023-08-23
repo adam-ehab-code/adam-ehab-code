@@ -32,5 +32,23 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-ehab-code&show_icons=true&locale=en" alt="adam-ehab-code" /></p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/adam-ehab-code/adam-ehab-code/output/snake.svg" alt="Snake animation" />
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-ehab-code&" alt="adam-ehab-code" /></p>
 
