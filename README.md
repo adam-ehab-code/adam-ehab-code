@@ -38,17 +38,5 @@
 
 
 
-
-
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/adam-ehab-code/adam-ehab-code/output/snake.svg" alt="Snake animation" />
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-ehab-code&" alt="adam-ehab-code" /></p>
 
